@@ -1,6 +1,6 @@
-title: Houthof
-logo: /assets/img/logo.png
-description: 
-show_downloads: true
-google_analytics:
+description: De groene versie van het Knarrenhof
 theme: jekyll-theme-minimal
+email: q.odding+6wz7wymt@outlook.com
+custom_css: assets/css/custom.css
+github_url: ""
+repository_url: ""
