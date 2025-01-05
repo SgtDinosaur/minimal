@@ -6,3 +6,5 @@ title: Houthof
 description: De natuurlijke versie van het Knarrenhof
 plugins:
   - jekyll-seo-tag
+sass:
+  style: compressed
